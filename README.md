@@ -2,7 +2,7 @@
 
 A collection of my Codewars challenge solutions. Updated daily.
 
-**Codewars:** (https://www.codewars.com/users/blind_devotion)
+**Codewars profile:** (https://www.codewars.com/users/blind_devotion)
 
 ## How It's Made:
 
