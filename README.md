@@ -4,8 +4,6 @@ A collection of my codewars challenge solutions. Updating daily.
 
 **Codewars:** (https://www.codewars.com/users/blind_devotion)
 
-![alt tag](picture/gif of project)
-
 ## How It's Made:
 
 **Tech used:** mostly JavaScript with some HTML and CSS for browser testing.
@@ -25,4 +23,4 @@ For example: there was an 8kyu challenge involving evaluation of a string as if 
 
 Take a look at these examples that I have in my own portfolio:
 
-**Codewars:** https://github.com/stender11/BadCode
+**Codewars:** https://github.com/stender11/CodingChallenges
