@@ -1,6 +1,6 @@
 # My Codewars Repo
 
-A collection of my codewars challenge solutions. Updating daily.
+A collection of my codewars challenge solutions. Updated daily.
 
 **Codewars:** (https://www.codewars.com/users/blind_devotion)
 
