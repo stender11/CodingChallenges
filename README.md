@@ -1,6 +1,6 @@
 # My Codewars Repo
 
-A collection of my codewars challenge solutions. Updated daily.
+A collection of my Codewars challenge solutions. Updated daily.
 
 **Codewars:** (https://www.codewars.com/users/blind_devotion)
 
@@ -16,8 +16,8 @@ After every coding challenge is finished, I save a copy locally that I can go ba
 
 ## Lessons Learned:
 
-Every completed challenge adds more knowledge to my coding arsenal and allows me to approach the same problem in several different ways. When a coding challenge is completed and submitted on Codewars, you are immediately shown a list of other coder's solutions and often discussion breaking down how each one was solved. Even if I have solved a specific or similar challenge before, there will always be a new or different way to go about resolving it so I can practice a technique I won't normally use otherwise in the process. 
-For example: there was an 8kyu challenge involving evaluation of a string as if it were an expression and returning the result as a number. This was earlier on in my experience with coding challenges so I just came up with a basic solution using the Number() function and various string and array methods to convert everything. After I submitted my solution, I found another coder had answered the same problem using a function I had never tried before: eval(). With a quick glance at the MDN (Mozilla Developer Network), I was able to find out that eval() evaluates a string as if it were a mathematical expression and then returns the result. I also learned in the same MDN article that eval() should never be used in live code because it poses a potential security risk and can be slower than other alternatives when run in the browser. Keeping the warning in mind, I realized that this function could still be used at least for the coding challenges I was doing and ended up using it as a shortcut to solve a much more difficult challenge about a month later.
+Every completed challenge adds more knowledge to my coding arsenal and allows me to approach the same problem in several different ways. When a coding challenge is completed and submitted on Codewars, you are immediately shown a list of other coders' solutions and often a discussion breaking down how each one was solved. Even if I have solved a specific or similar challenge before, there will always be a new or different way to go about resolving it so I can practice a technique I won't normally use otherwise in the process. 
+For example, there was an 8kyu challenge involving the evaluation of a string as if it were an expression and returning the result as a number. This was earlier on in my experience with coding challenges so I just came up with a basic solution using the Number() function and various string and array methods to convert everything. After I submitted my solution, I found another coder had answered the same problem using a function I had never tried before: eval(). With a quick glance at the MDN (Mozilla Developer Network), I was able to find out that eval() evaluates a string as if it were a mathematical expression and then returns the result. I also learned in the same MDN article that eval() should never be used in live code because it poses a potential security risk and can be slower than other alternatives when run in the browser. Keeping the warning in mind, I realized that this function could still be used at least for the coding challenges I was doing, and ended up using it as a shortcut to solve a much more difficult challenge about a month later.
 
 ## Examples:
 
