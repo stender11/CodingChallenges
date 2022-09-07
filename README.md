@@ -1,5 +1,7 @@
 # My Codewars Repo
 
+<p align="center"><img src="https://www.codewars.com/users/blind_devotion/badges/large" alt="codewars badge"></p>
+
 A collection of my Codewars challenge solutions. Updated daily.
 
 **Codewars profile:** (https://www.codewars.com/users/blind_devotion)
