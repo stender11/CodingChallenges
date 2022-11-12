@@ -17,17 +17,12 @@
 // splitTheBill(group) // returns {A: 5, B: 0, C: -5}
 
 // ---Submitted Solution:---
-function splitTheBill(x) {
-    const result = {};
-    let sum = 0;
-    for (const key in x) {
-        sum += x[key];
+function splitTheBill(group) {
+    const averageOwed = Object.values(group).reduce((c, a) => c + a, 0) / Object.values(group).length;
+    for (const key in group) {
+        group[key] = +(group[key] - averageOwed).toFixed(2);
     }
-    const avg = sum / (Object.keys(x).length);
-    for (const person in x) {
-        result[person] = Math.floor(100 * (x[person] - avg))/100;
-    }
-    return result;
+    return group;
 }
 
 // ---Test cases:---
